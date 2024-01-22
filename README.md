@@ -1,10 +1,10 @@
 ## Wassup, my name is Constantine
 
-#### A tech freak. A funny fella. A Java, Go dev.
+#### A tech freak. A funny fella. A (mostly) backend dev.
 
 I'm currently working on/studying:
-- Golang, love the lingo, it's got its own downsides but overall a refreshing experience from Java.
-- [REDACTED]-store, basically an online solution for a [REDACTED] shop. Currently private.
+- Golang, love the lingo, it got its own downsides but overall a refreshing experience compared to Java.
+- [REDACTED]-store, basically an online solution for [REDACTED]. Currently private.
 
 My pride and joy:
 - [ai-cheats](https://github.com/sirkostya009/ai-cheats) a way to cheat on my uni's online tests. Currently abandoned because OpenAI models are rather stupid and expensive (nah I'm just broke).

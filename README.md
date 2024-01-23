@@ -11,4 +11,4 @@ My pride and joy:
 - [lissajouse_curves](https://github.com/sirkostya009/lissajous_curves_sfml) a small and simple C++ program written with SFML that, well, plots Lissajous Curves.
 - [Posters](https://github.com/sirkostya009/spring-project) - a twitter-clone API with JWT auth, posting, following, liking functionality.
 - [Panopticon](https://github.com/sirkostya009/the-panopticon). Set of microservices and a UI that allows to add and view books.
-- [Shoe-Store](https://github.com/sirkostya009/shoe-store) - similar to Panopticon stack but frontend is written in React now. And you can browse books instead.
+- [Shoe-Store](https://github.com/sirkostya009/shoe-store) - stack is similar to Panopticon but the frontend part is written in React now. And you browse shoes instead.

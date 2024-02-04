@@ -7,6 +7,7 @@ I'm currently working on/studying:
 - [REDACTED]-store, basically an online solution for [REDACTED]. Currently private.
 
 My pride and joy:
+- [job-scraper](https://github.com/sirkostya009/job-scraper-bot) is a Telegram bot that fixes Djinni's bot and also allows to monitor Dou as well.
 - [go-novapost](https://pkg.go.dev/github.com/sirkostya009/go-novapost) - a library-wrapper for Nova Post API written in Golang.
 - [ai-cheats](https://github.com/sirkostya009/ai-cheats) a way to cheat on my uni's online tests. Currently abandoned because OpenAI models are rather stupid and expensive (nah I'm just broke).
 - [lissajouse_curves](https://github.com/sirkostya009/lissajous_curves_sfml) a small and simple C++ program written with SFML that, well, plots Lissajous Curves.

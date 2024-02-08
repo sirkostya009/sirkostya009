@@ -4,7 +4,7 @@
 
 I'm currently working on/studying:
 - Golang, love the lingo, it got its own downsides but overall a refreshing experience compared to Java.
-- [shoe-shoe](https://github.com/sirkostya009/shoe-shop), a work in progress e-commerce solution.
+- [shoe-shoe](https://github.com/sirkostya009/shoe-shop), a work in progress e-commerce solution, implemented with technology such as Golang, [Templ](https://github.com/a-h/templ), [HTMX](https://htmx.org/).
 
 My pride and joy:
 - [job-scraper](https://github.com/sirkostya009/job-scraper-bot) is a Telegram bot that fixes Djinni's bot and also allows to monitor Dou as well.

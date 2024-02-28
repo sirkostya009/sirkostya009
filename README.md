@@ -16,4 +16,4 @@
 - [Shoe-Store](https://github.com/sirkostya009/shoe-store) - stack is similar to Panopticon but the frontend part is written in React now. And you browse shoes instead.
 
 ### Honorable mentions:
-- [Monolith Cloud](https://github.com/r1sque/monolith-cloud) - an invite-only public file storage made in collaboration with [r1sque](https://github.com/r1sque).
+- [Monolith Cloud](https://github.com/r1sque/monolith-cloud) - an invite-only public file storage made in collaboration with [r1sque](https://github.com/r1sque) made with NextJS.

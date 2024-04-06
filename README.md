@@ -17,3 +17,5 @@
 
 ### Honorable mentions:
 - [Monolith Cloud](https://github.com/r1sque/monolith-cloud) - an invite-only public file storage made in collaboration with [r1sque](https://github.com/r1sque) made with NextJS.
+
+I also gather all the test tasks I have ever coded in a [single repository](https://github.com/sirkostya009/test-tasks).

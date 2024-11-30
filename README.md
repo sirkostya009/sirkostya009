@@ -1,3 +1,5 @@
-# Wassup, my name is Constantine
+```
+Hi, my name is Constantine.
 
-#### A tech freak. A funny fella. A full stack dev.
+I mostly do web dev, but sometimes dip into lower-level things, too.
+```

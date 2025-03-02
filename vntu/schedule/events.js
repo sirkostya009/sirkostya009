@@ -3,8 +3,8 @@
  */
 
 import uniSchedule from './result.json' with { type: 'json' };
-import { google } from "/home/constantine/.nvm/versions/node/v22.14.0/lib/node_modules/googleapis/build/src/index.js";
-import { authenticate } from "/home/constantine/.nvm/versions/node/v22.14.0/lib/node_modules/@google-cloud/local-auth/build/src/index.js";
+import { google } from "googleapis";
+import { authenticate } from "@google-cloud/local-auth";
 import readline from 'node:readline/promises';
 
 const auth = await authenticate({
